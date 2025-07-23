@@ -2,6 +2,7 @@
 layout: page
 permalink: /styles/
 title: Styles
+published: false
 ---
 
 <p class="notice">
